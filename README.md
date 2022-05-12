@@ -1,2 +1,4 @@
 # mac_changer-update2
-Second update on mac-changer.py
+
+- Organised code into functions.
+- Added statements to deal with no user-input.
